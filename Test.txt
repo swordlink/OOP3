@@ -1,0 +1,2 @@
+ listBox1.Items.Add("A1");
+            listBox1.Items.Add("A2");

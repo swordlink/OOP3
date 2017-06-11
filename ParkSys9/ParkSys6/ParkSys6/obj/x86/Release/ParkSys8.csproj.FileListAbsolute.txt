@@ -1,0 +1,2 @@
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys8\ParkSys6\ParkSys6\obj\x86\Release\ParkSys6.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys8\ParkSys6\ParkSys6\obj\x86\Release\ParkSys6.pdb

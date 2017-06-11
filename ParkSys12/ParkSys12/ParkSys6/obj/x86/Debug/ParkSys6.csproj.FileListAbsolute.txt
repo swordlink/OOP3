@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys7\ParkSys6\ParkSys6\bin\Debug\ParkSys6.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys7\ParkSys6\ParkSys6\bin\Debug\ParkSys6.pdb
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys7\ParkSys6\ParkSys6\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys7\ParkSys6\ParkSys6\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys7\ParkSys6\ParkSys6\obj\x86\Debug\ParkSys6.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys7\ParkSys6\ParkSys6\obj\x86\Debug\ParkSys6.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\ParkSys7\ParkSys6\ParkSys6\obj\x86\Debug\ParkSys6.pdb
