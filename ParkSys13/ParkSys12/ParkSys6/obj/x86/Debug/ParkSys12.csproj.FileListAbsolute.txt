@@ -1,0 +1,12 @@
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\ParkSys12.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\WindowsFormsApplication1.Form1En.resources
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\WindowsFormsApplication1.Form2En.resources
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\WindowsFormsApplication1.FormLoc.resources
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\ParkSys12.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\ParkSys6.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\obj\x86\Debug\ParkSys6.pdb
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\bin\Debug\ParkSys6.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys12\ParkSys12\ParkSys6\bin\Debug\ParkSys6.pdb
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys13\ParkSys12\ParkSys6\obj\x86\Debug\ParkSys6.exe
+C:\Users\Dell\Documents\MFI\Sem2\Sem22nd\Sem2\OOP\MiniProject\Compile\ParkSys13\ParkSys12\ParkSys6\obj\x86\Debug\ParkSys6.pdb
